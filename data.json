@@ -1,0 +1,221 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "userId": 1,
+      "active": true,
+      "jobType": "active",
+      "jobSpec": {
+        "companyName": "Geckotech",
+        "clientTitle": "Mr",
+        "clientFirstName": "Ernst",
+        "clientLastName": "Nolte",
+        "clientStreet": "123 road street",
+        "clientPostcode": "2341rt",
+        "clientResidence": "",
+        "location": {
+          "logitude": "52.308385",
+          "latitude": "4.880355"
+        },
+        "clientEmail": "ernst@gt.nl",
+        "clientPhone": "0684578454",
+        "description": " Clean all the windows in the house ",
+        "photos": [
+          {
+            "url": "http://www.unsplash.it/300/400",
+            "title": "Image Title"
+          },
+          {
+            "url": "http://www.unsplash.it/320/800",
+            "title": "Image Title"
+          }
+        ]
+      },
+      "workslip": {
+        "timesheet": [
+          {
+            "id": 1,
+            "workDate": "12/12/12",
+            "hours": "12.22",
+            "distance": "15.32",
+            "parking": "15",
+            "transitCost": "36"
+          },
+          {
+            "id": 2,
+            "workDate": "15/12/14",
+            "hours": "18.02",
+            "distance": "20.32",
+            "parking": "0",
+            "transitCost": "20"
+          }
+        ],
+        "materialsheet": [
+          {
+            "store": "Hardware Shop",
+            "date": "22/10/12",
+            "cost": "154"
+          }
+        ],
+        "description": "Cleaned all the windows with some very expensive window products"
+      }
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "active": true,
+      "jobSpec": {
+        "companyName": "Geckotech BV",
+        "clientTitle": "Mrs",
+        "clientFirstName": "Janet",
+        "clientLastName": "Beagle",
+        "clientStreet": "23 Johns street",
+        "clientPostcode": "5452er",
+        "clientResidence": "",
+        "location": {
+          "logitude": "52.308385",
+          "latitude": "4.880355"
+        },
+        "clientEmail": "Janet@beagleton.net",
+        "clientPhone": "206378454",
+        "description": " Hang a mirror in the bathroom ",
+        "photos": [
+          {
+            "url": "http://www.unsplash.it/311/310",
+            "title": "Image Title1"
+          },
+          {
+            "url": "http://www.unsplash.it/330/200",
+            "title": "Image Title2"
+          }
+        ]
+      },
+      "workslip": {
+        "timesheet": [
+          {
+            "workDate": "12/02/12",
+            "hours": "11.00",
+            "distance": "14.12",
+            "parking": "12",
+            "transitCost": "6"
+          },
+          {
+            "workDate": "15/02/14",
+            "hours": "02.02",
+            "distance": "03.32",
+            "parking": "40",
+            "transitCost": "0"
+          }
+        ],
+        "materialsheet": [
+          {
+            "store": "nail Shop",
+            "date": "22/10/12",
+            "cost": "198"
+          }
+        ],
+        "description": "Hammered nail into wall and hung a mirror on it"
+      }
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "active": true,
+      "jobSpec": {
+        "companyName": "Treehous",
+        "clientTitle": "Mrs",
+        "clientFirstName": "Annette",
+        "clientLastName": "Greenthumb",
+        "clientStreet": "123 road street",
+        "clientPostcode": "2341rt",
+        "clientResidence": "",
+        "location": {
+          "logitude": "52.308385",
+          "latitude": "4.880355"
+        },
+        "clientEmail": "jane@gt.nl",
+        "clientPhone": "0684578454",
+        "description": "Professionally clean carpets ",
+        "photos": [
+          {
+            "url": "http://www.unsplash.it/310/401",
+            "title": "Image Title4"
+          },
+          {
+            "url": "http://www.unsplash.it/321/801",
+            "title": "Image Title2"
+          }
+        ]
+      },
+      "workslip": {
+        "timesheet": [
+          {
+            "workDate": "",
+            "hours": "",
+            "distance": "",
+            "parking": "",
+            "transitCost": ""
+          }
+        ],
+        "materialsheet": [
+          {
+            "store": "",
+            "date": "",
+            "cost": ""
+          }
+        ],
+        "description": ""
+      }
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "active": false,
+      "jobSpec": {
+        "companyName": "inactive job company",
+        "clientTitle": "Mrs",
+        "clientFirstName": "Jane",
+        "clientLastName": "Doe",
+        "clientStreet": "123 road street",
+        "clientPostcode": "2341rt",
+        "clientResidence": "",
+        "location": {
+          "logitude": "52.308385",
+          "latitude": "4.880355"
+        },
+        "clientEmail": "jane@gt.nl",
+        "clientPhone": "0684578454",
+        "description": " to professionally inactive Job ",
+        "photos": [
+          {
+            "url": "http://www.unsplash.it/310/401",
+            "title": "Image Title4"
+          },
+          {
+            "url": "http://www.unsplash.it/321/801",
+            "title": "Image Title2"
+          }
+        ]
+      },
+      "workslip": {
+        "timesheet": [
+          {
+            "workDate": "",
+            "hours": "",
+            "distance": "",
+            "parking": "",
+            "transitCost": ""
+          }
+        ],
+        "materialsheet": [
+          {
+            "store": "",
+            "date": "",
+            "cost": ""
+          }
+        ],
+        "description": ""
+      }
+    }
+  ]
+}
