@@ -14,7 +14,7 @@
         "clientPostcode": "2341rt",
         "clientResidence": "",
         "location": {
-          "logitude": "52.308385",
+          "longitude": "52.308385",
           "latitude": "4.880355"
         },
         "clientEmail": "ernst@gt.nl",
@@ -71,7 +71,7 @@
         "clientPostcode": "5452er",
         "clientResidence": "",
         "location": {
-          "logitude": "52.308385",
+          "longitude": "52.308385",
           "latitude": "4.880355"
         },
         "clientEmail": "Janet@beagleton.net",
@@ -128,7 +128,7 @@
         "clientPostcode": "2341rt",
         "clientResidence": "",
         "location": {
-          "logitude": "52.308385",
+          "longitude": "52.308385",
           "latitude": "4.880355"
         },
         "clientEmail": "jane@gt.nl",
@@ -178,7 +178,7 @@
         "clientPostcode": "2341rt",
         "clientResidence": "",
         "location": {
-          "logitude": "52.308385",
+          "longitude": "52.308385",
           "latitude": "4.880355"
         },
         "clientEmail": "jane@gt.nl",
